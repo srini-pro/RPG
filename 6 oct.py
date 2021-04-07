@@ -1,5 +1,5 @@
 #!/bin/python3
-
+print('welcome")
 def showInstructions():
     #print a main menu and the commands
     print('''
